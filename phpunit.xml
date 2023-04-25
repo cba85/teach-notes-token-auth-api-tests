@@ -25,5 +25,8 @@
       <file>tests/Notes/NoteUpdateTest.php</file>
       <file>tests/Notes/NoteDeleteTest.php</file>
     </testsuite>
+    <testsuite name="logout">
+      <file>tests/Auth/LogoutTest.php</file>
+    </testsuite>
   </testsuites>
 </phpunit>
